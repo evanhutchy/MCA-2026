@@ -10,7 +10,7 @@ Pitch is represented by "Pitch" with "hold", "step" and "octave"
 Time is represented outside of pitch as "Duration"
 
 
-The Weakness of this approach is it is harder to learn for a beginner as you cannot see what is being changed as you change it,
+The Weakness of the MusicXML approach is it is harder to learn for a beginner as you cannot see what is being changed as you change it. A Strength of MusicXML is the layout as it is very simple.
 
 
 In the MEI File:
