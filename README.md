@@ -12,9 +12,8 @@ QUESTION 3 ANSWER
 <h2>Week 2</h2>
 
 I decided to transcribe my selected piece of music which was "At The Door" by the strokes as I thought it would give me a harder challenge and create a bigger learning opportunity for me. As I previously have very little knowledge of music theory this was a struggle for me. Understanding what the different versions of a rest were and why it was needed was interesting to me.
-I had to use trial and error a lot when trying to compose my piece as I could not figure out how to connect an eighth note to a sixteenth note.
-
-guess a few times on a few notes as I was unclear how to get it perfect, such as 
+I had to use trial and error a lot when trying to compose my piece as I could not figure out how to connect an eighth note to a sixteenth note. There were a few times that I had to guess on a few notes as I was unclear how to get it as I had intended, such as trying to type out sixteenth notes on musescore.
+I struggled with the tempo of the piece as Musescore would not let me put it is as 117 beats per minute so the tempo differs from Musescore's sheet music as mines is 120 bpm.
 
 <h2>Week 3</h2>
 
